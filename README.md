@@ -1,6 +1,4 @@
-# algorithms-and-data-structures
-
-Algorithm Analysis
+# Algorithm Analysis
     -   Correctness
     -   Time
     -   Space  
