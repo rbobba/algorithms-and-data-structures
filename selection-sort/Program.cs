@@ -7,7 +7,8 @@ namespace selection_sort
         static void Main(string[] args)
         {
             //var input = new int[] {5,2,3,1};
-            var input = new int[] {5,1,1,2,0,0};
+            var input = new int[] {5,3,4,1};
+            //var input = new int[] {5,1,1,2,0,0};
             var output = Sort(input);
             foreach(int val in output)
             {
