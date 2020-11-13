@@ -2,3 +2,4 @@
     -   Correctness
     -   Time
     -   Space  
+    -   Stability
