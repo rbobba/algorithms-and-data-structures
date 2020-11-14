@@ -5,6 +5,17 @@
    "version": "0.2.0",
    "configurations": [
        {
+         "name": "insertion-sort (console)",
+         "type": "coreclr",
+         "request": "launch",
+         "preLaunchTask": "build",
+         "program": "${workspaceFolder}/insertion-sort/bin/Debug/netcoreapp3.1/insertion-sort.dll",
+         "args": [],
+         "cwd": "${workspaceFolder}/insertion-sort",
+         "stopAtEntry": false,
+         "console": "internalConsole"
+       },
+       {
            "name": "bubble-sort (console)",
            "type": "coreclr",
            "request": "launch",
