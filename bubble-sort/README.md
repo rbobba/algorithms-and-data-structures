@@ -8,7 +8,7 @@
       Worst Case: O(n^2)
       
   # Stability
-      No
+      Yes
   # Approach
       1. Compare adjacent elements to determine if they are in order with respect to each other.  
       2. If they aren't, swap them.
